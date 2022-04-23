@@ -1,5 +1,5 @@
-# web-hosting-template
-Web hosting template with Bootstrap 4 - Free
+# web-hosting-plugins
+Web hosting with Bootstrap 4 - Free
 
 # Features
 Built with Bootstrap 4<br />
